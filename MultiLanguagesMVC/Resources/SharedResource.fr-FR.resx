@@ -120,16 +120,52 @@
   <data name="About" xml:space="preserve">
     <value>Sur</value>
   </data>
+  <data name="Book Now" xml:space="preserve">
+    <value>Reserve</value>
+  </data>
+  <data name="Child" xml:space="preserve">
+    <value>Enfant</value>
+  </data>
   <data name="Contacts" xml:space="preserve">
     <value>Contacts</value>
+  </data>
+  <data name="Cousy and affordable accomodation in a nice contest." xml:space="preserve">
+    <value>Un hébergement confortable et abordable dans un beau concours.</value>
+  </data>
+  <data name="Double Room" xml:space="preserve">
+    <value>Chambre double</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="Guest" xml:space="preserve">
+    <value>Invité</value>
+  </data>
+  <data name="King Double Room" xml:space="preserve">
+    <value>Chambre Double Lit King-Size</value>
+  </data>
+  <data name="Luxury Double Room" xml:space="preserve">
+    <value>Chambre Double de Luxe</value>
+  </data>
+  <data name="Room type" xml:space="preserve">
+    <value>Type de chambre</value>
   </data>
   <data name="Rooms" xml:space="preserve">
     <value>Pièces</value>
   </data>
+  <data name="Single Room" xml:space="preserve">
+    <value>Chambre simple</value>
+  </data>
   <data name="welcome" xml:space="preserve">
     <value>Bienvenue</value>
   </data>
+  <data name="WELCOME TO MAGNOLIA" xml:space="preserve">
+    <value>BIENVENUE CHEZ MAGNOLIA</value>
+  </data>
   <data name="Wheater.Forcast" xml:space="preserve">
     <value>Prévisions météorologiques</value>
+  </data>
+  <data name="Your dates" xml:space="preserve">
+    <value>Vos rendez-vous</value>
   </data>
 </root>
